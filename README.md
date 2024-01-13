@@ -79,6 +79,17 @@ npm run tauri dev
 ## Usage 
 Shieldbuntu can be used to harden both local and remote Ubuntu machines via SSH.
 
+
+## Contributors
+
+[Akshat Pandey](https://www.linkedin.com/in/akshat-pandey-001a53147) <br>
+[Jayash Tripathi](https://github.com/JayashTripathy)<br>
+[Vaibhav Shukla](https://github.com/mvaibhav77)<br>
+[Shashwat Gupta](https://github.com/Shashwat79802)<br>
+[Shashank Yadav](https://github.com/Shanks2121)<br>
+[Poorva Diwan](https://github.com/poorvadiwan)<br>
+[Sanskriti Harmukh](https://github.com/SanskritiHarmukh) <br>
+
 ## Contribution
 Feel free to contribute by opening issues, proposing new features, or submitting pull requests. We welcome your feedback and collaboration.
 
