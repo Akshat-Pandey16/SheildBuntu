@@ -34,11 +34,22 @@ Shieldbuntu is a collection of scripts designed to enhance the security of Ubunt
 10. **Firewall Setup**
     - Configure a firewall to control incoming and outgoing traffic.
 
-... and many more, all customizable based on user preferences.
+... and many more, all customizable based on user preferences. The hardening features are divided in couple levels, as mentioned in CIS Benchmarks. 
 
 ## Tauri Framework + React + Rust
 
 Shieldbuntu leverages the lightweight Tauri framework, combining the flexibility of React for the GUI and the security of Rust for the backend.
+
+## Screenshots
+
+Include some screenshots here to showcase the user interface or demonstrate the effects of Shieldbuntu in action.
+
+![Screenshot 1](images/1.png)
+
+![Screenshot 2](images/2.png)
+
+![Screenshot 3](images/3.png)
+
 
 ## Installation
 
@@ -52,3 +63,23 @@ Make sure to fulfill all prerequisites listed in the [Tauri Documentation](https
 git clone https://github.com/samrakshak23/shieldbuntu.git
 cd shieldbuntu
 npm install
+```
+
+### Install Rust
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+### Start Development Server
+```bash
+npm run tauri dev
+```
+
+## Usage 
+Shieldbuntu can be used to harden both local and remote Ubuntu machines via SSH.
+
+## Contribution
+Feel free to contribute by opening issues, proposing new features, or submitting pull requests. We welcome your feedback and collaboration.
+
+Happy hardening!
